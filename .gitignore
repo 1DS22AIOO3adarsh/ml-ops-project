@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+Artifacts/
+log/
+*.pkl
+
+raw_data/
+raw_data/outut/
+
